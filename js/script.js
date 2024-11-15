@@ -5,7 +5,7 @@ let pokemonList = ["Bulbasaur", "Ivysaur", "Venusaur", "Charmander", "Charmeleon
 
 // Question 1
 document.getElementById("host-name").textContent = "Jiayi Zhao";
-document.getElementById("collaborator-name").textContent = "Wen-ching Chang";
+document.getElementById("collaborator-name").textContent = "Xilong Yin";
 
 
 
